@@ -1,5 +1,4 @@
 # DigDes
-Вступительное задание на Школу Java-разработки.
   Содержимое классов:
   1. Классы, представляющие собой исключения: ColumnNameException, CommandException, EmptyRowException, TypeException
   2. ComparisonOperators : в этом классе описаны операции сравнения для типов, допустимых в таблице.
